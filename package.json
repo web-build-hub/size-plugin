@@ -18,6 +18,10 @@
     "gzip size",
     "bundle size"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/web-build-hub/size-plugin"
+  },
   "dependencies": {
     "chalk": "^2.4.1",
     "gzip-size": "^5.0.0",
